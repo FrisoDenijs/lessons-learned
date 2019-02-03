@@ -1,6 +1,6 @@
 # MEAN
 ## Node.js + Typescript
-https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
+- https://blog.risingstack.com/building-a-node-js-app-with-typescript-tutorial/
 
 ## Express + Mongo
 - https://codeburst.io/writing-a-crud-app-with-node-js-and-mongodb-e0827cbbdafb
