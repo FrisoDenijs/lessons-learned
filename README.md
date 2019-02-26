@@ -8,6 +8,8 @@
 
 ## Microsoft
 ### [IIS](https://github.com/FrisoDenijs/lessons-learned/blob/master/IIS.md)
+### .NET
+#### [Serilog](https://github.com/FrisoDenijs/lessons-learned/blob/master/Serilog.md)
 
 # Databases
 ## NoSQL
