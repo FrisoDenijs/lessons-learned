@@ -12,6 +12,7 @@
 #### [Serilog](https://github.com/FrisoDenijs/lessons-learned/blob/master/Serilog.md)
 
 # Databases
+## [SQL](https://github.com/FrisoDenijs/lessons-learned/blob/master/SQL.md)
 ## NoSQL
 ### [MongoDB](https://github.com/FrisoDenijs/lessons-learned/blob/master/mongodb.md)
 
