@@ -16,4 +16,5 @@
 ### NoSQL
 #### [MongoDB](https://github.com/FrisoDenijs/lessons-learned/blob/master/mongodb.md)
 
-
+## Versioning
+### [Git](https://github.com/FrisoDenijs/lessons-learned/blob/master/git.md)
