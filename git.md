@@ -1,3 +1,11 @@
+# Reset
+
+https://git-scm.com/docs/git-reset
+
+## Single file
+
+`git reset HEAD~ '<filename>'`
+
 # Stash
 
 https://git-scm.com/docs/git-stash
