@@ -1,3 +1,7 @@
+Remember to add the url to C:\Windows\System32\drivers\etc\hosts file:
+
+`127.0.0.1 example.com`
+
 # [Error: Unable to Start Debugging on the Web Server](https://docs.microsoft.com/en-us/visualstudio/debugger/error-unable-to-start-debugging-on-the-web-server?view=vs-2017)
 
 ## [The remote server returned an error](https://docs.microsoft.com/en-us/visualstudio/debugger/error-unable-to-start-debugging-on-the-web-server?view=vs-2017#server_error)
