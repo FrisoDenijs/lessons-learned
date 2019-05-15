@@ -1,3 +1,27 @@
+# Python + Vue
+- https://auth0.com/blog/building-modern-applications-with-django-and-vuejs/
+
+## Python
+- https://docs.python.org/3/tutorial/
+
+### Django
+- https://docs.djangoproject.com/en/2.2/intro/
+
+## VueJS
+- https://vuejs.org/v2/guide/
+- https://vuejs.org/v2/cookbook/
+
+## Links
+- https://vuejs.org/
+- https://www.python.org/
+- https://www.djangoproject.com/
+
+***
+- https://www.fullstackpython.com/vuejs.html
+- https://www.fullstackpython.com/django.html
+- https://www.fullstackpython.com/django-rest-framework-drf.html
+
+
 # MEAN
 ## Node.js
 ### Typescript
