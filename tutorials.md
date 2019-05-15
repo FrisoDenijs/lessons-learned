@@ -16,11 +16,11 @@
 - https://www.python.org/
 - https://www.djangoproject.com/
 
-***
 - https://www.fullstackpython.com/vuejs.html
 - https://www.fullstackpython.com/django.html
 - https://www.fullstackpython.com/django-rest-framework-drf.html
 
+***
 
 # MEAN
 ## Node.js
