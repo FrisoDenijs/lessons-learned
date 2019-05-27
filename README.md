@@ -2,6 +2,9 @@
 
 ## [Tutorials](https://github.com/FrisoDenijs/lessons-learned/blob/master/tutorials.md)
 
+## Frontend
+### [Javascript](https://github.com/FrisoDenijs/lessons-learned/blob/master/javascript.md)
+
 ## Backend
 ### Javascript
 #### [Express.js](https://github.com/FrisoDenijs/lessons-learned/blob/master/expressjs.md)
