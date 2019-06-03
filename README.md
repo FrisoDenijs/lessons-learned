@@ -1,6 +1,7 @@
 # Lessons Learned
 
 ## [Gists](https://github.com/FrisoDenijs/lessons-learned/blob/master/Gists.md)
+## [Projects](https://github.com/FrisoDenijs/lessons-learned/blob/master/Projects.md)
 ## [Tutorials](https://github.com/FrisoDenijs/lessons-learned/blob/master/tutorials.md)
 
 ## Frontend
