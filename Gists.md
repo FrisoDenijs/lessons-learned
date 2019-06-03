@@ -2,6 +2,8 @@
 
 ## Frontend
 ### Angular
+#### Config
+##### [Editable Config](https://gist.github.com/FrisoDenijs/f297ebe79ea8255fc099c1ed8acdc915)
 #### Pipes
 ##### [EnumKey](https://gist.github.com/FrisoDenijs/fc5d8a4abe2ce6a8e3544dd1f071a063)
 ##### [InputCurrency](https://gist.github.com/FrisoDenijs/0e6d418a78e14d315d6761d9dcabc9a6)
