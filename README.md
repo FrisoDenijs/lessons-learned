@@ -1,8 +1,12 @@
 # Lessons Learned
 
+A collection of what I've learned and am learning.
+
 ## [Gists](https://github.com/FrisoDenijs/lessons-learned/blob/master/Gists.md)
 ## [Projects](https://github.com/FrisoDenijs/lessons-learned/blob/master/Projects.md)
 ## [Tutorials](https://github.com/FrisoDenijs/lessons-learned/blob/master/tutorials.md)
+## [Examples](https://github.com/frisos-examples)
+Examples I forked or made
 
 ## Frontend
 ### [Javascript](https://github.com/FrisoDenijs/lessons-learned/blob/master/javascript.md)
