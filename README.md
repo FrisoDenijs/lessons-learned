@@ -27,3 +27,5 @@ Examples I forked or made
 
 ## Versioning
 ### [Git](https://github.com/FrisoDenijs/lessons-learned/blob/master/git.md)
+
+## [Testing](https://github.com/FrisoDenijs/lessons-learned/blob/master/Testing.md)
