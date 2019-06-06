@@ -4,3 +4,5 @@
 ## Smoke Testing
 ## Regression Testing
 ## Integration Testing
+## Load Testing
+## Performance Testing
