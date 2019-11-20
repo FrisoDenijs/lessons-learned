@@ -12,9 +12,8 @@ Examples I forked or made
 ### [Javascript](https://github.com/FrisoDenijs/lessons-learned/blob/master/javascript.md)
 
 ## Backend
-### Javascript
-#### Node
-##### [NPM](https://github.com/FrisoDenijs/lessons-learned/blob/master/npm.md)
+### Node
+#### [NPM](https://github.com/FrisoDenijs/lessons-learned/blob/master/npm.md)
 #### [Express.js](https://github.com/FrisoDenijs/lessons-learned/blob/master/expressjs.md)
 
 ### Microsoft
