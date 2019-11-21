@@ -10,6 +10,8 @@ Examples I forked or made
 
 ## Frontend
 ### [Javascript](https://github.com/FrisoDenijs/lessons-learned/blob/master/javascript.md)
+### Angular
+#### [Materials](https://github.com/FrisoDenijs/lessons-learned/blob/master/angular-materials.md)
 
 ## Backend
 ### Node
