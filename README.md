@@ -21,6 +21,7 @@ Examples I forked or made
 ### Microsoft
 #### [IIS](https://github.com/FrisoDenijs/lessons-learned/blob/master/IIS.md)
 #### .NET
+##### [Code Style Enforcement](https://github.com/FrisoDenijs/lessons-learned/blob/master/dotnet_codestyle_enforcement.md)
 ##### [Serilog](https://github.com/FrisoDenijs/lessons-learned/blob/master/Serilog.md)
 
 ## Databases
