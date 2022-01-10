@@ -8,6 +8,10 @@ A collection of what I've learned and am learning.
 ## [Examples](https://github.com/frisos-examples)
 Examples I forked or made
 
+
+## CLI
+### [CLI Commands](https://github.com/FrisoDenijs/lessons-learned/blob/master/CLI%20Commands)
+
 ## Frontend
 ### [Javascript](https://github.com/FrisoDenijs/lessons-learned/blob/master/javascript.md)
 ### [Angular](https://github.com/FrisoDenijs/lessons-learned/blob/master/angular.md)
