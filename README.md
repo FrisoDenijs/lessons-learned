@@ -39,4 +39,4 @@ Examples I forked or made
 ## [Testing](https://github.com/FrisoDenijs/lessons-learned/blob/master/Testing.md)
 
 ## Soft Skills
-### [Epic Lead](https://github.com/FrisoDenijs/lessons-learned/blob/master/epic-lead)
+### [Epic Lead](https://github.com/FrisoDenijs/lessons-learned/blob/master/epic-lead.md)
