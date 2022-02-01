@@ -37,3 +37,6 @@ Examples I forked or made
 ### [Git](https://github.com/FrisoDenijs/lessons-learned/blob/master/git.md)
 
 ## [Testing](https://github.com/FrisoDenijs/lessons-learned/blob/master/Testing.md)
+
+## Soft Skills
+### [Epic Lead](https://github.com/FrisoDenijs/lessons-learned/blob/master/epic-lead)
