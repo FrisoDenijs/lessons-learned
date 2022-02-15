@@ -13,6 +13,7 @@ Examples I forked or made
 ### [CLI Commands](https://github.com/FrisoDenijs/lessons-learned/blob/master/CLI%20Commands)
 
 ## Frontend
+### [HTML](https://github.com/FrisoDenijs/lessons-learned/blob/master/html.md)
 ### [Javascript](https://github.com/FrisoDenijs/lessons-learned/blob/master/javascript.md)
 ### [Angular](https://github.com/FrisoDenijs/lessons-learned/blob/master/angular.md)
 #### [Materials](https://github.com/FrisoDenijs/lessons-learned/blob/master/angular-materials.md)
