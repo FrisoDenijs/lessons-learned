@@ -10,7 +10,7 @@ Examples I forked or made
 
 
 ## CLI
-### [CLI Commands](https://github.com/FrisoDenijs/lessons-learned/blob/master/CLI%20Commands)
+### [CLI Commands](https://github.com/FrisoDenijs/lessons-learned/blob/master/cli-commands.md)
 
 ## Frontend
 ### [HTML](https://github.com/FrisoDenijs/lessons-learned/blob/master/html.md)
