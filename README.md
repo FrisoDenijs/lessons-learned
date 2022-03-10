@@ -42,3 +42,6 @@ Examples I forked or made
 
 ## Soft Skills
 ### [Epic Lead](https://github.com/FrisoDenijs/lessons-learned/blob/master/epic-lead.md)
+
+## IDEs
+### [VS Code](https://github.com/FrisoDenijs/lessons-learned/blob/master/vscode.md)
