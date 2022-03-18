@@ -6,6 +6,8 @@ https://stackoverflow.com/a/69318415/1984657
 https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 
 ## Multi line editing
-ctrl + alt => select multiple rows
-ctrl+[arrow key] => jump to next argument
-ctrl + D => select multiple based on selection
+`ctrl + alt` => select multiple rows
+
+`ctrl + [arrow key]` => jump to next argument
+
+`ctrl + D` => select multiple based on selection
