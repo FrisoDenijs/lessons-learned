@@ -47,3 +47,6 @@ Examples I forked or made
 
 ## IDEs
 ### [VS Code](https://github.com/FrisoDenijs/lessons-learned/blob/master/vscode.md)
+
+## Cloud
+### [AWS](https://github.com/FrisoDenijs/lessons-learned/blob/master/aws.md)
