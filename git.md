@@ -14,3 +14,6 @@ Useful when accidently working in wrong branch:
 
 # [Diff](https://git-scm.com/docs/git-diff)
 https://stackoverflow.com/a/35978722/1984657
+
+# Remove file changes from branch
+git checkout <first commit>~1 -- <file 1> <file 2> ...
